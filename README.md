@@ -1,4 +1,4 @@
-# Excel-Dashboard
+# BANK ANALYTICS PROJECT
 Bank Analytics Dashboard | Excel • Power BI • Tableau
 
 Built an interactive dashboard that gives a clear, real-time view of key banking metrics like customer growth, loan performance, deposits, and branch performance.
